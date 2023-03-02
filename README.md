@@ -1,7 +1,12 @@
 # NGramSwin
 
 ## N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution (CVPR 2023)
-Haram Choi, Jeongmin Lee, and Jihoon Yang
+Haram Choi<sup>*</sup>, Jeongmin Lee, and Jihoon Yang<sup>+</sup>
+
+<sup>*</sup>: This work has been done during my 3rd semester of Master Course in Sogang University.
+
+<sup>+</sup>: Corresponding author.
+
 - Introduces the N-Gram context to deep learning in the low-level vision domain.
 - Our N-Gram context algorithm used at window partitioning is in ```my_model/ngswin_model/win_partition.py```
 - Two tracks of this paper: 
