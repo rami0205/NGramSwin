@@ -114,7 +114,7 @@ def rebuild_after_warm_start(model, args):
                                     layer_decay=args.layer_decay, model_name=args.model_name)
     model = nn.DataParallel(model, device_ids=[x+int(args.device[-1]) for x in range(args.num_device)])
         
-    optimizer = torch.optim.Adam(param_groups, lr=args.init_lr, weight_decay=args.weight_decay)
+    optimizer = torch.optim.AdamW(param_groups, lr=args.init_lr, weight_decay=args.weight_decay)
     loss_scaler = NativeScalerWithGradNormCount()
     
     return model, optimizer, loss_scaler
