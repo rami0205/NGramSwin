@@ -115,7 +115,7 @@ def rebuild_after_warm_start(gpu, model, args):
                                     layer_decay=args.layer_decay, model_name=args.model_name)
     model = DDP(model, device_ids=[gpu])
         
-    optimizer = torch.optim.Adam(param_groups, lr=args.init_lr, weight_decay=args.weight_decay)
+    optimizer = torch.optim.AdamW(param_groups, lr=args.init_lr, weight_decay=args.weight_decay)
     loss_scaler = NativeScalerWithGradNormCount()
     
     return model, optimizer, loss_scaler
