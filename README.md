@@ -52,7 +52,7 @@ Haram Choi, Jeongmin Lee, and Jihoon Yang
 <details>
 <summary>SwinIR-NG Lightweight SR Results (Please Click)</summary>
 
-![comp_sota2](https://user-images.githubusercontent.com/69415453/222343526-4cb4fba6-24da-46d4-9c70-04491f6ddac1.png)
+![comp_sota2](https://user-images.githubusercontent.com/69415453/222380816-ecc4a354-5d59-4692-9c7e-8cbedb8ab9c5.png)
 
 </details>
 
