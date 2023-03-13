@@ -23,7 +23,13 @@ Haram Choi<sup>*</sup>, Jeongmin Lee, and Jihoon Yang<sup>+</sup>
 -**Feb 28, 2023:** Our paper accepted at CVPR 2023
 
 ### Model Architecture
-![model_architecture](https://user-images.githubusercontent.com/69415453/222345346-85128b90-00f9-4be6-8c22-d96f250bd9ce.png)
+![overall](https://user-images.githubusercontent.com/69415453/224660288-a690f7e1-ef84-4c18-8b05-63877147c72c.png)
+
+#### N-Gram Method
+![ngram_method](https://user-images.githubusercontent.com/69415453/224660473-e8446912-edff-47da-b5a0-8e8d55940e9b.png)
+
+#### SCDP Bottleneck Algorithm
+![scdp_algo](https://user-images.githubusercontent.com/69415453/224659307-82d264cb-fdf8-4c0a-b43d-3672871ac933.png)
 
 ### Visual Results
 
