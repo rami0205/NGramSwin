@@ -188,6 +188,14 @@ python3 dp_main_finetune.py --pretrain_path models/xxxxxxxx_xxxxxx/model_xxx.pth
 
 ### Citation
 ```
+(preferred)
+@inproceedings{choi2022n,
+  title = {N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution},
+  author = {Choi, Haram and Lee, Jeongmin and Yang, Jihoon},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year = {2023, To Appear}
+}
+
 @article{choi2022n,
   title={N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution},
   author={Choi, Haram and Lee, Jeongmin and Yang, Jihoon},
