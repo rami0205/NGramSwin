@@ -193,7 +193,7 @@ python3 dp_main_finetune.py --pretrain_path models/xxxxxxxx_xxxxxx/model_xxx.pth
   title = {N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution},
   author = {Choi, Haram and Lee, Jeongmin and Yang, Jihoon},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year = {2023, To Appear}
+  year = {2023}
 }
 
 @article{choi2022n,
