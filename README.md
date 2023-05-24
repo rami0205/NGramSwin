@@ -7,7 +7,11 @@ Haram Choi<sup>*</sup>, Jeongmin Lee, and Jihoon Yang<sup>+</sup>
 
 <sup>+</sup>: Corresponding author.
 
-[ArXiv](https://arxiv.org/abs/2211.11436) | [Visual Results](https://1drv.ms/u/s!AoUesdU_BVZrirpfrVniRoBRqjSw2Q?e=dh2ucT)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-00E600)](https://arxiv.org/abs/2211.11436)
+[![paper](https://img.shields.io/badge/CVF-Paper-6196CA)](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.pdf)
+[![supplement](https://img.shields.io/badge/Supplementary-Material-E5B095)](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Choi_N-Gram_in_Swin_CVPR_2023_supplemental.pdf)
+[![visual](https://img.shields.io/badge/Visual-Results-FF5050)](https://1drv.ms/u/s!AoUesdU_BVZrirpfrVniRoBRqjSw2Q?e=dh2ucT)
+[![poster](https://img.shields.io/badge/Presentation-Poster-B762C1)](https://1drv.ms/b/s!AoUesdU_BVZrivhToAyuJQf0z5DLVQ?e=QfipK2)
 
 - Introduces the N-Gram context to deep learning in the low-level vision domain.
 - Our N-Gram context algorithm used at window partitioning is in ```my_model/ngswin_model/win_partition.py```
@@ -18,6 +22,8 @@ Haram Choi<sup>*</sup>, Jeongmin Lee, and Jihoon Yang<sup>+</sup>
 - SwinIR-NG outperforms the current best state-of-the-art lightweight SR methods.
 
 ### News
+-**May 24, 2023:** Presentation poster available
+
 -**Mar 02, 2023:** Codes released publicly
 
 -**Feb 28, 2023:** Our paper accepted at CVPR 2023
