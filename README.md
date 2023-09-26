@@ -3,7 +3,7 @@
 ## N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution (CVPR 2023)
 Haram Choi<sup>*</sup>, Jeongmin Lee, and Jihoon Yang<sup>+</sup>
 
-<sup>*</sup>: This work has been done during my 3rd semester of Master Course in Sogang University.
+<sup>*</sup>: This work has been done during my Master's Course in Sogang University.
 
 <sup>+</sup>: Corresponding author.
 
